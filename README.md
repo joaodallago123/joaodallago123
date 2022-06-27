@@ -1,0 +1,5 @@
+- 👋 Oi, eu sou @joaodallago123
+- 👀 estou interessado em JavaScript
+- 🌱 eu estou interessado em JavaScript e CSS
+- 💞️ Eu estou procurando colaborar com Javascript e CSS
+- 📫 Instagram @dallago_joao
